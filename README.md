@@ -8,4 +8,4 @@
 
 ### Graduation Thesis:
 
-+ [Bachelor's thesis](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf) -- Punktowa i przedziałowa estymacja wielkości ukrytej populacji (eng. Point and interval estimation of hidden population)
++ [Bachelor's thesis](https://github.com/ncn-foreigners/graduation-theses/blob/main/2022-chlebicki.pdf) -- Punktowa i przedziałowa estymacja wielkości ukrytej populacji <br/>                                   (eng. Point and interval estimation of hidden population)
